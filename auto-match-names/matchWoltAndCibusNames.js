@@ -75,48 +75,8 @@ function getLanguage(word) {
 // }
 
 async function main() {
-  const wolt = [
-    "ארז פפרני",
-    "Tomer Binder",
-    "Idan Erel",
-    "פפרני",
-    "Alona Revel",
-    "Aviv Ben Shabat",
-    "Danny Steinhoff",
-    "Tomer Shkolnik",
-    "Matias Jurfest",
-    "Asaph Noam",
-    "Asaph Noam",
-    "Or Troyaner",
-    "ori price",
-    "Yogev Shlomovitz",
-    "עידן כהן",
-    "Omer Burshtein",
-    "Seifan Gertzenstein",
-    "Maya Hamo",
-    "ליאור חן",
-  ];
-  const cibus = [
-    "",
-    "Tomer Binder",
-    "Idan Erel",
-    "Erez Paperny",
-    "Alona Revel",
-    "Aviv Ben Shabat",
-    "Danny Steinhoff",
-    "Tomer Shkolnik",
-    "Matias Jurfest",
-    "Asaph Noam",
-    "Asaph Noam",
-    "Or Troyaner",
-    "Ori Price 223613",
-    "Yogev Shlomovitz",
-    "Idan Cohen",
-    "Omer Burshtein",
-    "Seifan Gertzenstain",
-    "Maya Hamo 223685",
-    "Lior Chen 223599",
-  ];
+  const wolt = [];
+  const cibus = [];
   const result = await matchWoltAndCibusNames(wolt, cibus)
 
   console.log(JSON.stringify(result))
