@@ -1,0 +1,79 @@
+[
+    {
+      "expected": "Erez Paperny",
+      "sample": "ארז פפרני"
+    },
+    {
+      "expected": "Tomer Binder",
+      "sample": "Tomer Binder"
+    },
+    {
+      "expected": "Idan Erel",
+      "sample": "Idan Erel"
+    },
+    {
+      "expected": "Erez Paperny",
+      "sample": "פפרני"
+    },
+    {
+      "expected": "Alona Revel",
+      "sample": "Alona Revel"
+    },
+    {
+      "expected": "Aviv Ben Shabat",
+      "sample": "Aviv Ben Shabat"
+    },
+    {
+      "expected": "Danny Steinhoff",
+      "sample": "Danny Steinhoff"
+    },
+    {
+      "expected": "Tomer Shkolnik",
+      "sample": "Tomer Shkolnik"
+    },
+    {
+      "expected": "Matias Jurfest",
+      "sample": "Matias Jurfest"
+    },
+    {
+      "expected": "Asaph Noam",
+      "sample": "Asaph Noam"
+    },
+    {
+      "expected": "Asaph Noam",
+      "sample": "Asaph Noam"
+    },
+    {
+      "expected": "Or Troyaner",
+      "sample": "Or Troyaner"
+    },
+    {
+      "expected": "Ori Price 223613",
+      "sample": "ori price"
+    },
+    {
+      "expected": "Yogev Shlomovitz",
+      "sample": "Yogev Shlomovitz"
+    },
+    {
+      "expected": "Idan Cohen",
+      "sample": "עידן כהן"
+    },
+    {
+      "expected": "Omer Burshtein",
+      "sample": "Omer Burshtein"
+    },
+    {
+      "expected": "Seifan Gertzenstain",
+      "sample": "Seifan Gertzenstein"
+    },
+    {
+      "expected": "Maya Hamo 223685",
+      "sample": "Maya Hamo"
+    },
+    {
+      "expected": "Lior Chen 223599",
+      "sample": "ליאור חן"
+    }
+  ]
+  

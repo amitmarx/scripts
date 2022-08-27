@@ -1,0 +1,19 @@
+{
+  "name": "translate",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node matchWoltAndCibusNames.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fuzzy-matching": "^0.4.3",
+    "hamming": "^0.0.2",
+    "translate": "^1.4.1"
+  },
+  "devDependencies": {
+    "esbuild": "^0.15.5"
+  }
+}
