@@ -1,0 +1,115 @@
+[
+    {
+        "groupId": "1652865556515",
+        "matches": [
+            {
+                "cibusName": "Ethan Hemo",
+                "woltName": "Ethan Hemo"
+            },
+            {
+                "cibusName": "Shai Hayoun",
+                "woltName": "Shai Hayoun"
+            },
+            {
+                "cibusName": "Ido Winter",
+                "woltName": "Ido Winter"
+            },
+            {
+                "cibusName": "Yehonatan Ben Shimol",
+                "woltName": "Yehonatan Ben Shimol"
+            },
+            {
+                "woltName": "Shlomi Mz",
+                "cibusName": "Shlomi Mizrahi"
+            },
+            {
+                "cibusName": "Amit Davida",
+                "woltName": "Amit"
+            },
+            {
+                "cibusName": "Dana Bida",
+                "woltName": "Dana Bida"
+            }
+        ]
+    },
+    {
+        "groupId": "noname",
+        "matches": [
+            {
+                "cibusName": "עד אטיאס",
+                "woltName": "Ad Attias"
+            }
+        ]
+    },
+    {
+        "groupId": "identity",
+        "matches": [
+            {
+                "cibusName": "Omer Sarid",
+                "woltName": "Omer Sarid"
+            },
+            {
+                "cibusName": "Maya Hamo 223685",
+                "woltName": "Maya Hamo"
+            },
+            {
+                "cibusName": "Oren Attiya",
+                "woltName": "Oren Attiya"
+            },
+            {
+                "cibusName": "Raz Saroya",
+                "woltName": "Raz Saroya"
+            }
+        ]
+    },
+    {
+        "groupId": "1655280682475",
+        "matches": [
+            {
+                "cibusName": "Raz Hemo",
+                "woltName": "Raz Hemo"
+            },
+            {
+                "cibusName": "Guy Lapid",
+                "woltName": "Guy Lapid"
+            }
+        ]
+    },
+    {
+        "groupId": "1b34b90c24a8158cfa78df8e8381c06cda7724558cb0ccb1827026a5e2830827",
+        "matches": [
+            {
+                "cibusName": "Omer Ben Amram",
+                "woltName": "Omer Ben-Amram"
+            },
+            {
+                "cibusName": "Alex Puschinsky",
+                "woltName": "Alex Puschinsky"
+            },
+            {
+                "cibusName": "Guy Lapid",
+                "woltName": "Guy Lapid"
+            },
+            {
+                "cibusName": "Ohad Ravud",
+                "woltName": "Ohad Ravud"
+            },
+            {
+                "cibusName": "Goni Zahavy",
+                "woltName": "Goni Zahavy"
+            },
+            {
+                "cibusName": "Yotam Dayan",
+                "woltName": "Yotam Dayan"
+            },
+            {
+                "cibusName": "Michal Binder",
+                "woltName": "Michal Binder"
+            },
+            {
+                "cibusName": "Yotam Avivi",
+                "woltName": "Yotam Avivi"
+            }
+        ]
+    }
+]
