@@ -1,5 +1,5 @@
 {
-  "name": "ontopo",
+  "name": "compare-dirs",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,9 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "node-fetch": "^3.2.4"
-  },
-  "type": "module"
-
-
+    "fs-extra": "^11.2.0"
+  }
 }
